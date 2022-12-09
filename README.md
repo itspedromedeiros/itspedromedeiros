@@ -10,6 +10,12 @@ function mySkills() {
     mySkills: ["html", "css", "sass", "javascript", "reactjs"]
   }
 }
+
+function contactMe() {
+  return {
+    email: 'medeirospedro.dev@gmail.com',
+  }
+}
 ```
 
 
