@@ -7,7 +7,7 @@ const aboutMe = {
 
 function mySkills() {
   return {
-    mySkills: ["html", "css", "sass", "javascript", "reactjs"]
+    mySkills: ["html", "css", "javascript", "reactjs"]
   }
 }
 
