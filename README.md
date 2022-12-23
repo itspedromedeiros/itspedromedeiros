@@ -5,12 +5,6 @@ const aboutMe = {
   Country: 'Brazil',
 };
 
-function mySkills() {
-  return {
-    mySkills: ["html", "css", "sass", "javascript"]
-  }
-}
-
 function contactMe() {
   return {
     email: 'medeirospedro.dev@gmail.com',
